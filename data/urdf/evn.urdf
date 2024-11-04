@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This URDF was automatically created by SolidWorks to URDF Exporter! Originally created by Stephen Brawner (brawner@gmail.com) 
+     Commit Version: 1.6.0-4-g7f85cfe  Build Version: 1.6.7995.38578
+     For more information, please see http://wiki.ros.org/sw_urdf_exporter -->
+<robot
+  name="evn">
+  <link
+    name="base_link">
+    <inertial>
+      <origin
+        xyz="2.61943244872498E-16 2.77555756156289E-17 0.200000000000104"
+        rpy="0 0 0" />
+      <mass
+        value="6.15206079988372" />
+      <inertia
+        ixx="0.0546164623172361"
+        ixy="2.50590502719118E-17"
+        ixz="-2.16262276711115E-17"
+        iyy="0.325990172074171"
+        iyz="5.06213236255422E-19"
+        izz="0.294340599314401" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="../meshes/evn.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.647058823529412 0.619607843137255 0.588235294117647 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="../meshes/evn.STL" />
+      </geometry>
+    </collision>
+  </link>
+</robot>

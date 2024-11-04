@@ -1,0 +1,5 @@
+gym==0.21.0
+stable-baselines3=1.8.0
+matplotlib
+pandas
+pybullet
