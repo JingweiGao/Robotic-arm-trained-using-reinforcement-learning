@@ -1,4 +1,5 @@
 # Robotic-arm-trained-using-reinforcement-learning
+```
 Run Commands
     1. Installation
         pip install -r requirements.txt
@@ -22,3 +23,4 @@ play.py
     Reinforcement learning experiment script
 train.py
     Reinforcement learning training script
+```
