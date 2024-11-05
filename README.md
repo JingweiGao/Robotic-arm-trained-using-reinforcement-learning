@@ -24,3 +24,10 @@ play.py
 train.py
     Reinforcement learning training script
 ```
+Algorithm diagram
+<img width="491" alt="image" src="https://github.com/user-attachments/assets/04543f6a-9dc2-4404-8074-433523103016">
+Simulation diagram
+<img width="340" alt="image" src="https://github.com/user-attachments/assets/376e357a-2e96-4b35-93c9-914d5fce3bce">
+![3ad1fb12a6c379a96f259e7c8832a81e 00_00_00-00_00_30](https://github.com/user-attachments/assets/e20c2c8f-7636-447b-b6c8-2ff1223dcc6c)
+
+
